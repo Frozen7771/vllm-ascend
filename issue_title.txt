@@ -1,0 +1,1 @@
+[Bug]: PD disaggregation: per-shard pending-reformat stash is overwritten when attention groups become ready in different pull tasks (decode TP < prefill TP), silently corrupting GQA draft KV
